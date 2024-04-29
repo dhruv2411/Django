@@ -1,0 +1,40 @@
+body{
+    background: linear-gradient(to right,rgb(107, 107, 230),white);  
+    overflow:visible;
+}
+
+.container{
+    text-align: center;
+    padding: 20px;
+    margin: auto;
+    font-size: 20px;
+}
+
+.lists{
+    text-align: center;
+    margin: auto;
+    border: 1px solid black;
+    padding: 20px;
+}
+
+.del{
+    text-align: center;
+    margin: 0 auto;
+    border: 1px solid black;
+    padding: 20px;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%)
+}
+
+.update{
+    text-align: center;
+    margin: 0 auto;
+    border: 1px solid black;
+    padding: 20px;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%)
+}
